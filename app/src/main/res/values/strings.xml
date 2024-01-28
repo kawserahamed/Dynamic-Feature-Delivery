@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Dynamic Feature</string>
+    <string name="title_dynamic_activity">Dynamic Activity</string>
+</resources>
