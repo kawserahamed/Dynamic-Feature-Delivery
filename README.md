@@ -1,5 +1,5 @@
 # Dynamic-Feature-Delivery
-Embarking on a transformative journey into Android Dynamic Feature Modules (DFMs), inspired by the innovation trailblazed by Abdullah Al Hasan (@hasancse91). Revolutionizing app development with modularity, size efficiency, and on-demand delivery! 🚀📱 #TechInnovation #DynamicFeatures
+Embarking on a transformative journey into Android Dynamic Feature Modules (DFMs), inspired by Abdullah Al Hasan (@hasancse91). Revolutionizing app development with modularity, size efficiency, and on-demand delivery! 🚀📱 #TechInnovation #DynamicFeatures
 #  Screenshots
 <p align="center">
    <img src="https://github.com/kawserahamed/Dynamic-Feature-Delivery/assets/93905438/0e49c696-1228-4848-9091-a271771fe707" width="350" alt="accessibility text">
